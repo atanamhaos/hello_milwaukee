@@ -29,3 +29,14 @@
 * [Holy Hill National Shrine of Mary, Help of Christians](https://www.holyhill.com/)
 * [Lapham Peak Unit - Wisconsin DNR](https://dnr.wi.gov/topic/parks/name/lapham/)
 * [Lapham Peak Unit, Kettle Moraine State Forest - Wikipedia](https://en.wikipedia.org/wiki/Lapham_Peak_Unit,_Kettle_Moraine_State_Forest)
+
+### Brewery and Distiliey Tours
+
+* [Lakefront Brewery](http://www.lakefrontbrewery.com/)
+* [The Tour | Lakefront Brewery](http://www.lakefrontbrewery.com/tour)
+* [Sprecher Brewery Pineapple X-Press Belgian-style Tripel Juicy Hops](https://www.sprecherbrewery.com/)
+* [Sprecher brewery tour brewhouse fermentation cellar taproom craft beer soda](https://www.sprecherbrewery.com/tours/)
+* [Great Lakes Distillery – Small batch hand crafted spirits made one drop at a time…](https://www.greatlakesdistillery.com/)
+* [Tour the Distillery – Great Lakes Distillery](https://www.greatlakesdistillery.com/tourstastingsevents/tour-the-distillery/)
+* [AV | MillerCoors](https://www.millercoors.com/av?url=https://www.millercoors.com/breweries/miller-brewing-company/tours)
+* [Milwaukee Brewery Tours is a Guide to the Best Breweries in Milwaukee, Wisconsin Breweries featuring Lakefront, Sprecher, Brenner, MobCraft, Biloba, Milwaukee Brewing Company, District 14, Enlightened, Great Lakes Distillery, Pabst, and MillerCoors Brewery](http://milwaukeebrewerytours.com/)
