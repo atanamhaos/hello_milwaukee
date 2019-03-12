@@ -72,6 +72,17 @@
 * [Home | Pizza Man](https://pizzamanwi.com/)
 * [Order Pizza Shuttle Online - Delivery or Pickup in Downtown Milwaukee on the East Side](https://order.pizzashuttle.com/)
 
+### Event and Happening Sources
+
+* [Visit Milwaukee - VISIT Milwaukee](https://www.visitmilwaukee.org/)
+* [Milwaukee Magazine - Find the Best Restaurants, Shopping and Events](https://www.milwaukeemag.com/)
+* [Milwaukee Events Calendar](https://www.milwaukeemag.com/calendar/)
+* [Shepherd Express — Smart, Informed, Opinionated - Shepherd Express](https://shepherdexpress.com/#/questions)
+* [OnMilwaukee - Milwaukee's Daily Magazine](https://onmilwaukee.com/)
+* [Milwaukee, WI Events & Things To Do | Eventbrite](https://www.eventbrite.com/d/wi--milwaukee/events/)
+* [Events and Things To Do |Journal Sentinel](https://www.jsonline.com/entertainment/events/)
+* [Milwaukee365.com](https://www.milwaukee365.com/)
+
 #### Need to be sorted
 
 * [Top 10 Milwaukee Tech Meetups & User Groups](https://www.jsonline.com/story/money/business/onramp/blog/2016/05/09/top-10-milwaukee-tech-meetups-user-groups/84892370/)
