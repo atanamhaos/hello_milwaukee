@@ -40,3 +40,56 @@
 * [Tour the Distillery – Great Lakes Distillery](https://www.greatlakesdistillery.com/tourstastingsevents/tour-the-distillery/)
 * [AV | MillerCoors](https://www.millercoors.com/av?url=https://www.millercoors.com/breweries/miller-brewing-company/tours)
 * [Milwaukee Brewery Tours is a Guide to the Best Breweries in Milwaukee, Wisconsin Breweries featuring Lakefront, Sprecher, Brenner, MobCraft, Biloba, Milwaukee Brewing Company, District 14, Enlightened, Great Lakes Distillery, Pabst, and MillerCoors Brewery](http://milwaukeebrewerytours.com/)
+
+### Shopping
+
+* [Urban Milwaukee: The Store – The Milwaukee Gift Shop](https://urbanmilwaukeethestore.com/)
+* [American Science and Surplus](https://www.sciplus.com/)
+* [Fischberger's Variety - Google Maps](https://www.google.com/maps/place/Fischberger's+Variety/@43.063038,-87.9078896,17z/data=!3m1!4b1!4m5!3m4!1s0x8805193c990e7151:0xe38e55adac13b705!8m2!3d43.063038!4d-87.9057009)
+* [Spices at Penzeys](https://www.penzeys.com/)
+* [Mayfair | Shopping Mall in Wauwatosa, WI](https://www.mayfairmall.com/en.html)
+* [Welcome To Southridge Mall® - A Shopping Center In Greendale, WI - A Simon Property](https://www.simon.com/mall/southridge-mall)
+* [Bayshore Town Center ::: Glendale ::: WI](https://www.bayshoretowncenter.com/)
+* [A Guide to Milwaukee Shopping Malls](https://www.tripsavvy.com/guide-to-milwaukee-shopping-malls-2363212)
+* [Milwaukee Public Market - Fresh Food. Local Vendors.](https://milwaukeepublicmarket.org/)
+* [Worlds largest selection of Wisconsin Cheese since 1938](https://www.wisconsincheesemart.com/)
+* [Antiques On Second, Antiques, Milwaukee WI](https://www.antiquesonpierce.com/)
+* [Visit Milwaukee - Boutique Shopping in Milwaukee](https://www.visitmilwaukee.org/plan-a-visit/things-to-do/boutique-shopping/)
+
+### Pizza
+
+* [zaffiro's pizza](http://www.zaffirospizza.com/)
+* [Home | Pizza Man](https://pizzamanwi.com/)
+* [Order Pizza Shuttle Online - Delivery or Pickup in Downtown Milwaukee on the East Side](https://order.pizzashuttle.com/)
+
+# Milwaukee Traditional and Favorite Restuarants
+
+* [Simma's Bakery](https://www.simmasbakery.com/)
+* [Points East Pub - Google Search](https://www.google.com/search?q=Points+East+Pub&rlz=1CAEAQE_enUS757US762&oq=Points+East+Pub&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+* [Home :: George Webb](https://georgewebb.com/)
+* [Home](http://www.bombaysweetsmilwaukee.com/)
+* [Grebe’s Bakery - Google Search](https://www.google.com/search?q=Grebe%E2%80%99s+Bakery&rlz=1CAEAQE_enUS757US762&oq=Grebe%E2%80%99s+Bakery&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+* [Old German Beer Hall - Hofbräu Munich Beer in Milwaukee](http://www.oldgermanbeerhall.com/)
+* [Solly's Grille - Home](http://www.sollysgrille.com/)
+* [Bartolotta's Lake Park Bistro | French Dining in Milwaukee](https://www.bartolottas.com/lake-park-bistro)
+* [Koppa's](http://koppas.com/)
+* [Saz's Hospitality Group](https://sazs.com/)
+* [Cubanitas - Milwaukee — Bianchini](https://www.getbianchini.com/new-page)
+* [HONEYPIE](https://www.honeypiecafe.com/)
+* [Sanford Restaurant](https://sanfordrestaurant.com/)
+* [Odd Duck Restaurant – Serving an ever-changing menu of small plates, sandwiches and cocktails inspired by local ingredients.](https://www.oddduckrestaurant.com/)
+* [Tonkotsu ramen - Google Search](https://www.google.com/search?q=Tonkotsu+ramen&rlz=1CAEAQE_enUS757US762&oq=Tonkotsu+ramen&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
+* [Mars Cheese Castle - On-Line Store](https://www.marscheese.com/)
+* [Friday Fish Fry | Lakefront Brewery](http://www.lakefrontbrewery.com/beer-hall/fish-fry)
+* [16 Great Milwaukee Fish Fries](https://www.milwaukeemag.com/milwaukee-fish-fry-guide/)
+* [The best Milwaukee-area fish frys of 2018 (from a guy who ate one every Friday this year)](http://milwaukeerecord.com/food-drink/best-milwaukee-fish-frys-2018-guy-ate-one-every-friday-year/)
+* [Downtown Milwaukee Restaurants | SafeHouse Milwaukee](https://www.safe-house.com/)
+* [Famous Fish Fry Menu – American Serb Hall](https://www.americanserbmemorialhall.com/famous-fish-fry-menu/)
+* [Leon's Frozen Custard - Google Maps](https://www.google.com/maps/place/Leon's+Frozen+Custard/@42.9877857,-87.9509036,17z/data=!3m1!4b1!4m5!3m4!1s0x880510bc7853497f:0xd64cdcba0b28c11a!8m2!3d42.9877857!4d-87.9487149)
+* [Welcome to Burger + Custard Heaven | Kopp's Frozen Custard](https://www.kopps.com/)
+* [Flavor Preview | Kopp's Frozen Custard](https://www.kopps.com/flavor-preview)
+* [Oakland Gyros - Google Maps](https://www.google.com/maps/place/Oakland+Gyros/@43.0709292,-87.8902519,17z/data=!3m1!4b1!4m5!3m4!1s0x880518d1223d1a33:0x4782db1b56b59149!8m2!3d43.0709292!4d-87.8880632)
+* [The Original Suburpia - Google Maps](https://www.google.com/maps/search/The+Original+Suburpia/@43.0682436,-88.035385,11z/data=!3m1!4b1)
+* [Cousins Subs | Grilled & Deli-Fresh Submarine Sandwiches](https://www.cousinssubs.com/)
+* [The 50 Best Things to Eat in Milwaukee - Thrillist](https://www.thrillist.com/eat/milwaukee/the-50-best-things-to-eat-in-milwaukee)
+
