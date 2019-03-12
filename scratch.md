@@ -74,6 +74,7 @@
 
 #### Need to be sorted
 
+* [Top 10 Milwaukee Tech Meetups & User Groups](https://www.jsonline.com/story/money/business/onramp/blog/2016/05/09/top-10-milwaukee-tech-meetups-user-groups/84892370/)
 * [pistol pete's milwaukee - Google Search](https://www.google.com/search?hl=en&authuser=0&rlz=1CAEAQE_enUS757US762&q=pistol+pete%27s+milwaukee&spell=1&sa=X&ved=0ahUKEwjEv8Glq_vgAhVBxYMKHfcyAoIQBQgrKAA&biw=1366&bih=665)
 * [Pistol Pete's Pizza and Grill - Google Maps](https://www.google.com/maps/place/Pistol+Pete's+Pizza+and+Grill/@43.1042689,-88.121656,17z/data=!3m1!4b1!4m5!3m4!1s0x88050117632aabd9:0xf93b49bb145e6eec!8m2!3d43.1042689!4d-88.1194673?hl=en&authuser=0)
 * [Pistol Pete’s Neighborhood Grill - 56 Photos & 52 Reviews - American (New) - 16755 W Lisbon Rd, Brookfield, WI - Restaurant Reviews - Phone Number - Yelp](https://www.yelp.com/biz/pistol-petes-neighborhood-grill-brookfield-2)
