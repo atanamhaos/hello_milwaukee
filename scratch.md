@@ -24,13 +24,7 @@
 * [Antiques On Second, Antiques, Milwaukee WI](https://www.antiquesonpierce.com/)
 * [Visit Milwaukee - Boutique Shopping in Milwaukee](https://www.visitmilwaukee.org/plan-a-visit/things-to-do/boutique-shopping/)
 
-### Pizza
-
-* [zaffiro's pizza](http://www.zaffirospizza.com/)
-* [Home | Pizza Man](https://pizzamanwi.com/)
-* [Order Pizza Shuttle Online - Delivery or Pickup in Downtown Milwaukee on the East Side](https://order.pizzashuttle.com/)
-
-# Milwaukee Traditional and Favorite Restuarants
+## Milwaukee Traditional and Favorite Restuarants
 
 * [Simma's Bakery](https://www.simmasbakery.com/)
 * [Points East Pub - Google Search](https://www.google.com/search?q=Points+East+Pub&rlz=1CAEAQE_enUS757US762&oq=Points+East+Pub&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8)
@@ -60,6 +54,23 @@
 * [The Original Suburpia - Google Maps](https://www.google.com/maps/search/The+Original+Suburpia/@43.0682436,-88.035385,11z/data=!3m1!4b1)
 * [Cousins Subs | Grilled & Deli-Fresh Submarine Sandwiches](https://www.cousinssubs.com/)
 * [The 50 Best Things to Eat in Milwaukee - Thrillist](https://www.thrillist.com/eat/milwaukee/the-50-best-things-to-eat-in-milwaukee)
+
+### Grocery
+
+* [Home · Outpost Natural Foods](https://www.outpost.coop/)
+* [Cermak Fresh Market | Produce - International Foods, Quality Meats - Home](https://www.cermakfreshmarket.com/)
+* [Metro Market](https://www.metromarket.net/)
+* [El Rey - Google Maps](https://www.google.com/maps/search/El+Rey/@43.0683077,-87.9653411,12z/data=!3m1!4b1)
+* [Viet Hoa Supermarket - Google Maps](https://www.google.com/maps/place/Viet+Hoa+Supermarket/@43.0607982,-87.9771185,17z/data=!3m1!4b1!4m5!3m4!1s0x88051b74df431807:0xb27a3fc5bd0d2ecb!8m2!3d43.0607982!4d-87.9749298)
+* [Sendik's Food Market](https://www.sendiks.com/)
+* [Pick ‘n Save](https://www.picknsave.com/)
+* [Piggly Wiggly Midwest](https://www.shopthepig.com/)
+
+### Pizza
+
+* [zaffiro's pizza](http://www.zaffirospizza.com/)
+* [Home | Pizza Man](https://pizzamanwi.com/)
+* [Order Pizza Shuttle Online - Delivery or Pickup in Downtown Milwaukee on the East Side](https://order.pizzashuttle.com/)
 
 #### Need to be sorted
 
@@ -94,4 +105,3 @@
 * [Holy Hill National Shrine of Mary, Help of Christians](https://www.holyhill.com/)
 * [Lapham Peak Unit - Wisconsin DNR](https://dnr.wi.gov/topic/parks/name/lapham/)
 * [Lapham Peak Unit, Kettle Moraine State Forest - Wikipedia](https://en.wikipedia.org/wiki/Lapham_Peak_Unit,_Kettle_Moraine_State_Forest)
-
